@@ -1,9 +1,11 @@
 # CS_comics
 
+## Refactoring
+![](imgs/refactoring.jpg)
+
+
 ## DevOps & Security
-
 by Pete Cheslock (@petecheslock)
-
 ![](imgs/unicorn_devops_sec.png)
 
 ## Code reuse
