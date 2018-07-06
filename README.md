@@ -1,5 +1,8 @@
 # CS_comics
 
+## One Talk to rule them all / Buzzwords
+![](imgs/One_Talk_to_rule_them_all.jpg)
+
 ## Refactoring
 ![](imgs/refactoring.jpg)
 
