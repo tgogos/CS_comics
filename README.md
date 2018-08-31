@@ -1,5 +1,8 @@
 # CS_comics
 
+## Open-source these days
+![](imgs/open_source_these_days.jpg)
+
 ## One Talk to rule them all / Buzzwords
 ![](imgs/One_Talk_to_rule_them_all.jpg)
 
