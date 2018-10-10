@@ -1,5 +1,8 @@
 # CS_comics
 
+## Architecture
+![](imgs/architecture.jpg)
+
 ## Open-source these days
 ![](imgs/open_source_these_days.jpg)
 
