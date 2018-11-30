@@ -1,5 +1,8 @@
 # CS_comics
 
+## DevOps culture
+![](imgs/devops-explained.png)
+
 ## Architecture
 ![](imgs/architecture.jpg)
 
