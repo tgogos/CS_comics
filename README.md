@@ -1,5 +1,8 @@
 # CS_comics
 
+## Technical Debt
+![](imgs/technical_debt.jpg)
+
 ## DevOps culture
 ![](imgs/devops-explained.png)
 
