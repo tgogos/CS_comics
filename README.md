@@ -2,6 +2,7 @@
 
 ## Technical Debt
 ![](imgs/technical_debt.jpg)
+![](imgs/too_busy.jpg)
 
 ## DevOps culture
 ![](imgs/devops-explained.png)
