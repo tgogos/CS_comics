@@ -1,5 +1,8 @@
 # CS_comics
 
+## How hard could it be?
+![](imgs/dt100424.gif)
+
 ## Technical Debt
 ![](imgs/technical_debt.jpg)
 ![](imgs/too_busy.jpg)
