@@ -1,5 +1,8 @@
 # CS_comics
 
+## Hype Con
+![](imgs/hype_con.jpg)
+
 ## How hard could it be?
 ![](imgs/dt100424.gif)
 
