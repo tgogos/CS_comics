@@ -1,5 +1,8 @@
 # CS_comics
 
+## Automation
+![](imgs/automation.jpg)
+
 ## Hype Con
 ![](imgs/hype_con.jpg)
 
