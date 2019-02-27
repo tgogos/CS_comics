@@ -1,5 +1,8 @@
 # CS_comics
 
+## Expertise vs Confidence
+![](imgs/expertise_vs_confidence.png)
+
 ## Automation
 ![](imgs/automation.jpg)
 
