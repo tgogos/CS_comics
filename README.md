@@ -2,6 +2,7 @@
 
 ## Automation
 ![](imgs/automation.jpg)
+source: [tweet](https://twitter.com/Mierdin/status/1100535357165240320)
 
 ## Hype Con
 ![](imgs/hype_con.jpg)
