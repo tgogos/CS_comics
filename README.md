@@ -1,5 +1,8 @@
 # CS_comics
 
+## Microservices - Conway's law
+![](imgs/microservices_conway's_law.jpg)
+
 ## Expertise vs Confidence
 ![](imgs/expertise_vs_confidence.png)
 
