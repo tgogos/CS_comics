@@ -1,5 +1,10 @@
 # CS_comics
 
+## The Never Ending Cycle of Enterprise IT
+![](imgs/it_never_ending_cycle.jpg)
+
+source [tweet](https://twitter.com/giano/status/1007563057617362944)
+
 ## Microservices - Conway's law
 ![](imgs/microservices_conway's_law.jpg)
 
