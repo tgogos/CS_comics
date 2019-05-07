@@ -1,5 +1,10 @@
 # CS_comics
 
+## Complexity Vs Simplicity
+> *"Complexity is what smart people do. Simplicity is what smart people who must live with the consequences of their design do."*
+![](imgs/smart_people_complexity_&_simplicity.jpg)
+
+
 ## The Never Ending Cycle of Enterprise IT
 ![](imgs/it_never_ending_cycle.jpg)
 
