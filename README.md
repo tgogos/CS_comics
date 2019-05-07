@@ -2,6 +2,7 @@
 
 ## Complexity Vs Simplicity
 > *"Complexity is what smart people do. Simplicity is what smart people who must live with the consequences of their design do."*
+
 ![](imgs/smart_people_complexity_&_simplicity.jpg)
 
 
