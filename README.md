@@ -1,5 +1,11 @@
 # CS_comics
 
+## Kubernetes on Openstack
+
+![](imgs/kubernetes-on-openstack.jpg)
+
+source: (probably deleted) [tweet](https://twitter.com/craig_tracey/status/860931799077330944), archived [here](https://web.archive.org/web/20190502040407/https:/twitter.com/craig_tracey/status/860931799077330944)
+
 ## Complexity Vs Simplicity
 > *"Complexity is what smart people do. Simplicity is what smart people who must live with the consequences of their design do."*
 
