@@ -1,5 +1,10 @@
 # CS_comics
 
+## Guide to software developer job adds
+
+![](imgs/job-advertisement-guide.jpg)
+
+
 ## Kubernetes on Openstack
 
 ![](imgs/kubernetes-on-openstack.jpg)
