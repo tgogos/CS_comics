@@ -1,5 +1,10 @@
 # CS_comics
 
+## Conway's Law in simple terms 😆
+
+![](imgs/conways-law-crazy.jpg)
+
+
 ## Guide to software developer job adds
 
 ![](imgs/job-advertisement-guide.jpg)
