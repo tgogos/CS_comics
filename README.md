@@ -91,3 +91,7 @@ by Pete Cheslock (@petecheslock)
 
 ## A good architect leaves a footprint
 ![](imgs/a_good_architect_leaves_a_footprint.jpg)
+
+
+## The Cloud Native Stack
+![](imgs/Cloud_Native_Building_Stack.jpg)
