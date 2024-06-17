@@ -1,24 +1,26 @@
 # CS_comics
 
-## Conway's Law in simple terms 😆
+## AIOps by Forrest Brazeal
+![](imgs/Forrest_Brazeal_AIOps.jpg)
 
+source [tweet](https://x.com/forrestbrazeal/status/1628057409452122112)
+
+
+## Conway's Law in simple terms 😆
 ![](imgs/conways-law-crazy.jpg)
 
 
 ## Guide to software developer job adds
-
 ![](imgs/job-advertisement-guide.jpg)
 
 
 ## Kubernetes on Openstack
-
 ![](imgs/kubernetes-on-openstack.jpg)
 
 source: (probably deleted) [tweet](https://twitter.com/craig_tracey/status/860931799077330944), archived [here](https://web.archive.org/web/20190502040407/https:/twitter.com/craig_tracey/status/860931799077330944)
 
 ## Complexity Vs Simplicity
 > *"Complexity is what smart people do. Simplicity is what smart people who must live with the consequences of their design do."*
-
 ![](imgs/smart_people_complexity_&_simplicity.jpg)
 
 
