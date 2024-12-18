@@ -1,5 +1,9 @@
 # CS_comics
 
+## Code with error-handling vs without...
+
+![](imgs/code-with-without-error-handling.png)
+
 ## AIOps by Forrest Brazeal
 ![](imgs/Forrest_Brazeal_AIOps.jpg)
 
